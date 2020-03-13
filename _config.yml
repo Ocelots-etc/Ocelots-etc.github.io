@@ -1,11 +1,11 @@
 # Site settings
 author: Cat Gomez
-title: 
+title: Here
 header-img: img/home-bg.png
 email: catherinedgomez@gmail.com
 copyright_name: Cat Gomez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Create and be happy
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Ocelots-etc
